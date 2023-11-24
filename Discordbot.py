@@ -924,4 +924,4 @@ async def help(interaction: discord.Interaction):
     await interaction.response.send_message(embed= help_embed , ephemeral= False)
 
 
-client.run("MTA4MDE5NTc2NjQxMDI5MzM4OQ.Gx-zKI.XhiQE-ZXyuvUzqjr90rRbuwk6mMJ4fGcofR8K8")
+client.run("")
